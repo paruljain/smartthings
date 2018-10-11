@@ -1,6 +1,5 @@
 Kankun WiFi outlets were a cheap option using the TPLink chipset. People hacked these outlets to allow SSH access to the Linux like OS
-running on the device. The device had an inbuilt webserver with a CGI interface. It was then trivial to create a REST API to run the outlet on
-and off.
+running on the device. The device had an inbuilt webserver with a CGI interface. It was then trivial to create a REST API to turn the outlet on and off.
 
 Here are details on how to configure the device:
 http://www.anites.com/2015/01/hacking-kankun-smart-wifi-plug.html
