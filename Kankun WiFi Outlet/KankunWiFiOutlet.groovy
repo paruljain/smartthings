@@ -3,12 +3,10 @@ metadata {
         capability "Switch"
     }
     tiles(scale: 2) {
-        // standard tile with actions named
         standardTile("switch", "device.switch", width: 2, height: 2, canChangeIcon: true) {
             state "off", label: "off", icon: "st.switches.switch.off", backgroundColor: "#ffffff", action: "switch.on"
-		    state "on", label: "on", icon: "st.switches.switch.on", backgroundColor: "#00a0dc", action: "switch.off"
+	    state "on", label: "on", icon: "st.switches.switch.on", backgroundColor: "#00a0dc", action: "switch.off"
         }
-        // the "switch" tile will appear in the Things view
         main("switch")
     }
 }
