@@ -7,7 +7,7 @@ Garage door open, close and status solution using smartthings hub, ZWave or ZigB
 
 1. WeMos D1 Mini ESP8266 development board
 2. Relay shield for WeMos D1 Mini
-3. Android phone charger (5V micro USB wall poer supply for the WeMos)
+3. Android phone charger (5V micro 1 Amp USB wall power supply for the WeMos)
 4. Smartthings hub
 5. Zwave tilt sensor (Ecolink, Monoprice etc.). You can alternatively use a door/window sensor. However correct mounting of such a sensor is much harder than a tilt sensor
 
