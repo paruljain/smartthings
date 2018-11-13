@@ -20,7 +20,7 @@ Garage door open, close and status solution using smartthings hub, ZWave or ZigB
 4. Install the WeMos D1 Mini with the Relay and phone charger on top of your garage door opener
 5. Connect the relay NO contacts to the garage door opener in parallel to your wall mounted garage door switch
 6. Create and publish the garageDoorControlDH.groovy Device Handler using the smartthings IDE
-7. Using the same IDE create a device to use this handler. Set the Device Network ID as the IP Address:Port that you configured in the Arduino sketch
+7. Using the same IDE create a device to use this handler. Set the Device Network ID as the IP Address:port that you configured in the Arduino sketch. For example 192.168.1.50:80
 8. Create and publish the garageDoorApp.groovy smartapp using the smartthings IDE
 9. Install the smartapp using the smartthings app on your phone
 10. Enjoy!
