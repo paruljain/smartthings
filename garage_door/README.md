@@ -15,7 +15,7 @@ Garage door open, close and status solution using smartthings hub, ZWave or ZigB
 
 1. Solder the Relay Shield using provided headers to the WeMos D1 Mini
 2. Install and configure Arduino IDE on your Windows computer
-3. Download the webRelay.ino sketch and edit it with the Arduino IDE to change the WiFi configuration
+3. Download the webRelay.ino sketch and edit it with the Arduino IDE to change the WiFi configuration. Make sure that the version of your esp8266 board in the Arduino IDE is 2.4.0 or higher
 3. Upload the webRelay.ino sketch to WeMos D1 Mini using the Arduino IDE and USB connection
 4. Install the WeMos D1 Mini with the Relay and phone charger on top of your garage door opener
 5. Connect the relay NO contacts to the garage door opener in parallel to your wall mounted garage door switch
