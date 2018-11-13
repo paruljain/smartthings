@@ -11,6 +11,8 @@ Garage door open, close and status solution using smartthings hub, ZWave or ZigB
 4. Smartthings hub
 5. Zwave tilt sensor (Ecolink, Monoprice etc.). You can alternatively use a door/window sensor. However correct mounting of such a sensor is much harder than a tilt sensor
 
+![alt text](https://github.com/paruljain/smartthings/blob/master/garage_door/IMG_20181113_153058631.jpg "WeMos installed on the opener")
+
 ## Steps
 
 1. Solder the Relay Shield using provided headers to the WeMos D1 Mini
