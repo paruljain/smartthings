@@ -3,7 +3,7 @@
 
 Garage door open, close and status solution using smartthings hub, ZWave or ZigBee tilt or door/window sensor, and ESP8266 based WiFi relay.
 
-## Parts List:
+## Parts List
 
 1. WeMos D1 Mini ESP8266 development board
 2. Relay shield for WeMos D1 Mini
