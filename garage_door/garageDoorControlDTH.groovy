@@ -7,7 +7,7 @@ metadata {
     tiles(scale: 2) {
         standardTile("door", "device.door", width: 2, height: 2, canChangeIcon: true, decoration: "flat") {
             state "closed", label: "CLOSED", icon: "st.Transportation.transportation14", backgroundColor: "#00a0dc", action: "doorControl.open", nextState: "opening"
-			state "open", label: "OPEN", icon: "st.Transportation.transportation13", backgroundColor: "#dc0032", action: "doorControl.close", nextState: "closing"
+	    state "open", label: "OPEN", icon: "st.Transportation.transportation13", backgroundColor: "#dc0032", action: "doorControl.close", nextState: "closing"
             state "opening", label: "Opening", icon: "st.Transportation.transportation14", backgroundColor: "#dc0032"
             state "closing", label: "Closing", icon: "st.Transportation.transportation13", backgroundColor: "#dc0032"
         }
