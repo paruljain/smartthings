@@ -6,19 +6,24 @@ Garage door open, close and status solution using smartthings hub, ZWave or ZigB
 ## Parts List
 
 1. WeMos D1 Mini ESP8266 development board
-https://www.ebay.com/itm/HOT-D1-Mini-NodeMcu-4M-bytes-Lua-WIFI-Development-Board-ESP8266-by-WeMos/292657136823?epid=2232496538&hash=item4423b984b7:g:Ec0AAOSwfttbWrrr:rk:39:pf:0
+
+```https://www.ebay.com/itm/HOT-D1-Mini-NodeMcu-4M-bytes-Lua-WIFI-Development-Board-ESP8266-by-WeMos/292657136823?epid=2232496538&hash=item4423b984b7:g:Ec0AAOSwfttbWrrr:rk:39:pf:0```
 
 2. Relay shield for WeMos D1 Mini
-https://www.ebay.com/itm/Relay-Shield-for-Arduino-WeMos-D1-Mini-ESP8266-Development-Board-KZ/183492065390?hash=item2ab8fab86e:g:NVYAAOSwAfVbyH-G:rk:2:pf:0
+
+```https://www.ebay.com/itm/Relay-Shield-for-Arduino-WeMos-D1-Mini-ESP8266-Development-Board-KZ/183492065390?hash=item2ab8fab86e:g:NVYAAOSwAfVbyH-G:rk:2:pf:0```
 
 3. Android phone charger (5V micro 1 Amp USB wall power supply for the WeMos)
-https://www.ebay.com/itm/1-2-4-Port-5V-USB-AC-Wall-Charger-Home-Travel-AC-Fast-Charger-Adapter-US-EU-Plug/222981507785?hash=item33eabbcac9:m:mZ_hoVICeEMmPf9CEt18lGg:rk:10:pf:0
+
+```https://www.ebay.com/itm/1-2-4-Port-5V-USB-AC-Wall-Charger-Home-Travel-AC-Fast-Charger-Adapter-US-EU-Plug/222981507785?hash=item33eabbcac9:m:mZ_hoVICeEMmPf9CEt18lGg:rk:10:pf:0```
 
 4. Smartthings hub
-https://www.amazon.com/Samsung-SmartThings-Generation-GP-U999SJVLGDA-Automation/dp/B07FJGGWJL/ref=sr_1_3?ie=UTF8&qid=1542158658&sr=8-3&keywords=smartthings+hub+v3&dpID=219HZLd2RZL&preST=_SY300_QL70_&dpSrc=srch
+
+```https://www.amazon.com/Samsung-SmartThings-Generation-GP-U999SJVLGDA-Automation/dp/B07FJGGWJL/ref=sr_1_3?ie=UTF8&qid=1542158658&sr=8-3&keywords=smartthings+hub+v3&dpID=219HZLd2RZL&preST=_SY300_QL70_&dpSrc=srch```
 
 5. Zwave tilt sensor (Ecolink, Monoprice etc.). You can alternatively use a door/window sensor. However correct mounting of such a sensor is much harder than a tilt sensor
-https://www.amazon.com/Z-Wave-Plated-Reliability-Garage-TILT-ZWAVE2-5-ECO/dp/B01MRZB0NT/ref=sr_1_3?ie=UTF8&qid=1542158628&sr=8-3&keywords=zwave+tilt+sensor&dpID=31XYD4TV4EL&preST=_SX300_QL70_&dpSrc=srch
+
+```https://www.amazon.com/Z-Wave-Plated-Reliability-Garage-TILT-ZWAVE2-5-ECO/dp/B01MRZB0NT/ref=sr_1_3?ie=UTF8&qid=1542158628&sr=8-3&keywords=zwave+tilt+sensor&dpID=31XYD4TV4EL&preST=_SX300_QL70_&dpSrc=srch```
 
 ![alt text](https://github.com/paruljain/smartthings/blob/master/garage_door/IMG_20181113_153058631.jpg "WeMos installed on the opener")
 
